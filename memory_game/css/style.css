@@ -1,0 +1,53 @@
+body {
+text-align: center;
+}
+
+h1, h2, a {
+	font-family:Raleway;
+}
+
+a {
+	text-decoration:none;
+}
+
+h1,h2,a {
+	text-transform:uppercase;
+}
+
+p {
+	font-family: "Droid Serif";
+	font-size:18px;
+	line-height: 26px;
+}
+
+#big{
+	font-family:Raleway;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 45px;
+}
+
+
+
+#first, #second {
+	font-family:Raleway;
+	color: #F15B31;
+	font-size:18px;
+	font-weight:600;
+	letter-spacing: 1px;
+}
+
+#third{
+	font-family:Raleway;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight:600;
+	font-size:20px;
+}
+
+#word{
+	font-family: "Droif Serif";
+	line-height:26px;
+	font-size:18px;
+}
